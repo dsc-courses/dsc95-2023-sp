@@ -112,7 +112,7 @@ Here's an assortment of information that will be useful the first time you tutor
 ### Payment
 {: .no_toc }
 
-To get paid for your tutoring hours, submit your hours biweekly into [Ecotime](EcotimeCampus.ucsd.edu).
+To get paid for your tutoring hours, submit your hours biweekly into [Ecotime](https://ecotimecampus.ucsd.edu).
 
 - Resources for using Ecotime can be found [here](https://blink.ucsd.edu/finance/payroll/timekeeping/ecotime/index.html); a quick guide (that is also linked on this site) can be found [here](https://blink.ucsd.edu/_files/payroll/ecotime/eco-qg-studenttimeentry.pdf).
 - Instructions for setting up Direct Deposit can be found [here](https://ucpath.ucsd.edu/benefits-payroll/payroll/payment-methods.html). Note that you must set up your UC Path account to access the Direct Deposit page. Follow [this](https://ucpath.ucsd.edu/self-service/first-time-ucpath.html) guide for accessing UC Path for the first time. 
