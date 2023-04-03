@@ -82,7 +82,7 @@ DSC 95 is graded P/NP. There are three things you need to do to pass:
         - 2: Thoughtful and complete
         - 1: Lack of effort
         - 0: Not submitted
-    - If you need to miss a DSC 95 class session for any reason (e.g. if you're sick or have a conflicting exam), let Suraj know in advance on Slack.s
+    - If you need to miss a DSC 95 class session for any reason (e.g. if you're sick or have a conflicting exam), let Suraj know in advance on Slack.
         - Note that lecture attendance for the class you're tutoring for is _not_ a requirement of DSC 95; your instructor may still require you to attend as part of your paid tutor duties.
     - You can miss at most 4 participation points (i.e. 2 DSC 95 class sessions) and still pass.
 1. **Complete weekly readings and homework assignments**, usually due on Sundays at 11:59PM.
