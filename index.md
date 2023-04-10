@@ -18,10 +18,6 @@ nav_order: 1
 **Class**: Mondays, 10-10:50AM, Center Hall 201
 {: .mb-0 .fs-5 .text-grey-dk-000 }
 
-
-{: .success }
-**Welcome to DSC 95! 👋 Make sure to join our Slack workspace (email Suraj if you didn't receive an invite) and read the page below. See you at our first meeting on Monday at 10AM in Center Hall 201!**
-
 ---
 
 ## Table of contents
@@ -41,7 +37,7 @@ Homeworks can be found at the bottom of the corresponding week's webpage.
 | Week | Class | Discussion Topic | Homework | Project |
 | --- | --- | --- | --- | --- |
 | 1 | Monday, April 3rd | [Introduction, Responsibilities, Imposter Syndrome](weeks/01) | Homework 1 (due Sunday, April 9th) | |
-| 2 | Monday, April 10th | Growth vs. Fixed Mindset, Inclusion, Office Hours | Homework 2 (due Sunday, April 16th) | |
+| 2 | Monday, April 10th | [Structural Factors, Growth vs. Fixed Mindset, Professionalism](weeks/02) | Homework 2 (due Sunday, April 16th) | |
 | 3 | Monday, April 17th | Grading and Feedback | Homework 3 (due Sunday, April 23rd) | Instructions released |
 | 4 | Monday, April 24th | Experienced Tutor Panel | Homework 4 (due Sunday, April 30th) | |
 | 5 | Monday, May 1st | Prose and Active Learning | Homework 5 (due Sunday, May 7th) | |
