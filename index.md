@@ -37,9 +37,9 @@ Homeworks can be found at the bottom of the corresponding week's webpage.
 | Week | Class | Discussion Topic | Homework | Project |
 | --- | --- | --- | --- | --- |
 | 1 | Monday, April 3rd | [Introduction, Responsibilities, Imposter Syndrome](weeks/01) | Homework 1 (due Sunday, April 9th) | |
-| 2 | Monday, April 10th | [Structural Factors, Growth vs. Fixed Mindset, Professionalism](weeks/02) | Homework 2 (due Sunday, April 23rd) | |
-| 3 | Monday, April 17th | Grading and Feedback | Homework 3 (due Sunday, April 23rd) | Instructions released |
-| 4 | Monday, April 24th | Experienced Tutor Panel | Homework 4 (due Sunday, April 30th) | |
+| 2 | Monday, April 10th | [Structural Factors, Growth vs. Fixed Mindset](weeks/02) | Homework 2 (due Sunday, April 23rd) | |
+| 3 | Monday, April 17th | [Office Hours, Professionalism, Grading](weeks/03) | Homework 3 (due Sunday, April 23rd) |  |
+| 4 | Monday, April 24th | Experienced Tutor Panel | Homework 4 (due Sunday, April 30th) | Instructions released |
 | 5 | Monday, May 1st | Prose and Active Learning | Homework 5 (due Sunday, May 7th) | |
 | 6 | Monday, May 8th |  Reflection, Productivity Tips | Homework 6 (due Sunday, May 14th) | Checkpoint due Sunday, May 14th |
 | 7 | Monday, May 15th | Project Feedback | Homework 7 (due Sunday, May 21st) |
