@@ -39,13 +39,13 @@ Homeworks can be found at the bottom of the corresponding week's webpage.
 | 1 | Monday, April 3rd | [Introduction, Responsibilities, Imposter Syndrome](weeks/01) | Homework 1 (due Sunday, April 9th) | |
 | 2 | Monday, April 10th | [Structural Factors, Growth vs. Fixed Mindset](weeks/02) | Homework 2 (due Sunday, April 23rd) | |
 | 3 | Monday, April 17th | [Office Hours, Professionalism, Grading](weeks/03) | Homework 3 (due Sunday, April 23rd) |  |
-| 4 | Monday, April 24th | Experienced Tutor Panel | Homework 4 (due Sunday, April 30th) | Instructions released |
-| 5 | Monday, May 1st | Prose and Active Learning | Homework 5 (due Sunday, May 7th) | |
-| 6 | Monday, May 8th |  Reflection, Productivity Tips | Homework 6 (due Sunday, May 14th) | Checkpoint due Sunday, May 14th |
-| 7 | Monday, May 15th | Project Feedback | Homework 7 (due Sunday, May 21st) |
-| 8 | Monday, May 22nd | Academic Integrity, Ethics | Homework 8 (due Sunday, May 28th) | |
-| 9 | Monday, May 29th | No Class (Memorial Day) | | |
-| 10 | Monday, June 5th | Instructor-Tutor Interactions, Next Steps | | Final Project due Friday, June 9th | 
+| 4 | Monday, April 24th | Experienced Tutor Panel | | |
+| 5 | Monday, May 1st | [Productivity Tips, Final Project Brainstorming, Grading](weeks/05) | Homework 4 (due Sunday, May 7th) | Instructions released |
+| 6 | Monday, May 8th |  Reflection, Writing | Homework 5 (due Sunday, May 14th) | Checkpoint due Sunday, May 14th |
+| 7 | Monday, May 15th | Project Feedback, Active Learning | Homework 6 (due Sunday, May 21st) |
+| 8 | Monday, May 22nd | Academic Integrity, Ethics | Homework 7 (due Sunday, May 28th) | |
+| 9 | Monday, May 29th | No Class (Memorial Day) | | Final Project due Monday, May 29th |
+| 10 | Monday, June 5th | Instructor-Tutor Interactions, Next Steps | | | 
 
 
 ---
