@@ -42,9 +42,9 @@ Homeworks can be found at the bottom of the corresponding week's webpage.
 | 4 | Monday, April 24th | Experienced Tutor Panel | | |
 | 5 | Monday, May 1st | [Productivity Tips, Final Project Brainstorming, Grading](weeks/05) | Homework 4 (due Sunday, May 7th) | Instructions released |
 | 6 | Monday, May 8th |  [Reflection](weeks/06) | Homework 5 (due Sunday, May 14th) | Checkpoint due Sunday, May 14th |
-| 7 | Monday, May 15th | [Project Feedback, Writing](weeks/07) | Homework 6 (due Sunday, May 21st) |
-| 8 | Monday, May 22nd | Active Learning, AI, and Ethics | Homework 7 (due Sunday, May 28th) | |
-| 9 | Monday, May 29th | No Class (Memorial Day) | | Final Project due Monday, May 29th |
+| 7 | Monday, May 15th | [Project Feedback](weeks/07) | |
+| 8 | Monday, May 22nd | [Writing, Academic Integrity, Learning Theory](weeks/08) | | Second draft due Sunday, May 28th |
+| 9 | Monday, May 29th | No Class (Memorial Day) | | Final Project due Saturday, June 3rd |
 | 10 | Monday, June 5th | Instructor-Tutor Interactions, Next Steps | | | 
 
 
