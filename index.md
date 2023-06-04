@@ -44,8 +44,8 @@ Homeworks can be found at the bottom of the corresponding week's webpage.
 | 6 | Monday, May 8th |  [Reflection](weeks/06) | Homework 5 (due Sunday, May 14th) | Checkpoint due Sunday, May 14th |
 | 7 | Monday, May 15th | [Project Feedback](weeks/07) | |
 | 8 | Monday, May 22nd | [Writing, Academic Integrity, Learning Theory](weeks/08) | | Second draft due Sunday, May 28th |
-| 9 | Monday, May 29th | No Class (Memorial Day) | | Final Project due Saturday, June 3rd |
-| 10 | Monday, June 5th | Instructor-Tutor Interactions, Next Steps | | | 
+| 9 | Monday, May 29th | No Class (Memorial Day) | | Final Project due Sunday, June 4th at 12PM |
+| 10 | Monday, June 5th | [Learning Theory, Conclusion](weeks/10) | | [CAPEs](https://cape.ucsd.edu) + [End-of-Quarter Survey](https://docs.google.com/forms/d/e/1FAIpQLScJcBYOsIvoRxHDqLCXolS1GmKvag-UVksNMSi8b_nh0oEZxA/viewform) due Saturday, June 10th at 8AM | 
 
 
 ---
